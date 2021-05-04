@@ -13,7 +13,7 @@ public class SaleManager implements SaleService{
 		System.out.println(game.getName()+" adli oyun "+user.getFirstName()+
 							" adli kullaniciya "+campaign.getName() + 
 							" kampanyasindan yararlanilarak "+game.getPrice()+ 
-							" fiyata satilmistir.");
+							" TL'ye satilmistir.");
 		
 	}
 
